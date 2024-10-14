@@ -1,0 +1,30 @@
+APA ITU PYTHON?
+Python adalah bahasa pemrograman tingkat tinggi yang diciptakan oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991. Python dirancang dengan filosofi yang menekankan keterbacaan kode dan kemudahan penulisan. Karena sintaksisnya yang sederhana dan bersahabat, Python sering digunakan sebagai bahasa pemrograman pertama bagi pemula.
+Python bersifat interpreted, high-level, dan general-purpose. Ini berarti Python bisa langsung dijalankan tanpa proses kompilasi, bekerja pada level abstraksi yang tinggi, dan dapat digunakan dalam berbagai jenis pengembangan seperti web, ilmiah, hingga kecerdasan buatan.
+
+KENAPA MEMILIH PYTHON?
+Ada beberapa alasan kuat untuk mempelajari Python, terutama bagi pemula:
+
+1. Sintaks yang Mudah Dibaca: Python menggunakan gaya penulisan yang bersih dan sederhana, memudahkan pemrogram untuk fokus pada logika daripada sintaks yang rumit.
+2. Komunitas Besar dan Sumber Daya yang Melimpah: Python memiliki komunitas yang sangat aktif. Banyak sekali dokumentasi, tutorial, dan kursus online yang tersedia untuk membantu belajar Python.
+3. Ekosistem Pustaka yang Kuat: Python memiliki ribuan pustaka pihak ketiga yang membuatnya sangat fleksibel untuk berbagai jenis proyek, seperti:
+
+NumPy, Pandas untuk analisis data. 
+TensorFlow, PyTorch untuk machine learning.
+Django, Flask untuk pengembangan web.
+
+4. Portable dan Multi-platform: Python dapat berjalan di berbagai sistem operasi seperti Windows, macOS, Linux, dan bahkan pada perangkat mobile dan embedded.
+5. Penggunaan dalam Berbagai Industri: Python digunakan di berbagai bidang industri seperti pengembangan web, data science, pengembangan game, kecerdasan buatan (AI), hingga Internet of Things (IoT).
+
+KEGUNAAN PYTHON!
+Python digunakan dalam berbagai bidang dan proyek. Beberapa kegunaan utamanya adalah:
+Pengembangan Web: Dengan framework seperti Django dan Flask, Python memungkinkan pembuatan aplikasi web yang cepat dan aman.
+Data Science: Python menjadi bahasa utama dalam bidang data science. Pustaka seperti Pandas, NumPy, dan Matplotlib sangat berguna dalam analisis data dan visualisasi.
+Machine Learning & AI: Pustaka seperti TensorFlow dan Scikit-Learn memungkinkan pengembangan model AI.
+Otomatisasi: Python sering digunakan untuk membuat skrip otomatisasi yang mempercepat pekerjaan rutin.
+Pengembangan Game: Dengan Pygame, Python juga dapat digunakan untuk membuat game sederhana.
+
+
+
+Sekian dari saya🙌
+semoga bermanfaat🤝
