@@ -1,0 +1,37 @@
+USER INPUT 
+User input di Python adalah data atau informasi yang diberikan oleh pengguna ke program selama program berjalan. 
+Program menerima input tersebut menggunakan fungsi input() yang memungkinkan pengguna untuk memasukkan data, 
+yang kemudian dapat digunakan, diproses, atau dimanipulasi oleh program.
+
+Penjelasan singkat:
+input(): Fungsi ini digunakan untuk meminta pengguna memasukkan informasi atau data. Data tersebut selalu diterima sebagai string secara default, tidak peduli apakah pengguna memasukkan teks atau angka.
+Interaksi: User input memungkinkan program untuk berinteraksi dengan pengguna secara dinamis. Misalnya, program bisa meminta pengguna memasukkan nama, usia, atau angka yang kemudian dapat diproses lebih lanjut oleh program.
+
+Contoh Sederhana:
+
+nama = input("Masukkan nama Anda: ")
+print("Halo, " + nama + "!")
+
+Dalam contoh di atas:
+
+1. Program meminta pengguna memasukkan nama dengan pesan "Masukkan nama Anda:".
+2. Setelah pengguna memasukkan nama, program akan menampilkan pesan sapaan dengan nama yang dimasukkan oleh pengguna.
+
+Contoh Penggunaan Input Angka:
+
+umur = int(input("Berapa umur Anda? "))
+print("Umur Anda adalah", umur, "tahun.")
+
+penjelasan:
+1. Program meminta pengguna memasukkan angka (umur).
+2. Program akan mengonversi input dari string menjadi integer menggunakan int().
+3. Program akan menampilkan hasil yaitu (umur pengguna).
+
+Kesimpulan:
+User input adalah dasar untuk membuat program yang interaktif, 
+di mana pengguna dapat memengaruhi jalannya program atau 
+memberikan data yang akan diproses lebih lanjut.
+
+
+Sekian dari saya🙌
+semoga bermanfaat🤝
