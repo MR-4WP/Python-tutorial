@@ -1,1 +1,19 @@
+BASIC PYTHON !
+Untuk memulai pemrograman dengan Python, 
+program pertama yang biasanya dibuat adalah program sederhana untuk menampilkan "Hello, World!" di layar. 
+Program ini digunakan untuk memperkenalkan cara kerja dasar Python dalam mengeksekusi kode. 
+Berikut adalah langkah-langkah membuat program "Hello, World!" di Python
+
 print("Hello, World!")
+
+
+Penjelasan kode:
+
+print() : adalah fungsi bawaan Python yang digunakan untuk menampilkan teks atau informasi ke layar.
+
+"Hello, World!" : adalah sebuah string, yaitu teks yang kita tampilkan. String dalam Python ditandai dengan tanda kutip ganda (") atau tanda kutip tunggal (').
+
+
+
+Sekian dari saya🙌
+semoga bermanfaat🤝
