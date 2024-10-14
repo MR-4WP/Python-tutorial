@@ -1,0 +1,94 @@
+VARIABEL DAN TIPE DATA !
+
+1. Variabel
+Variabel adalah tempat untuk menyimpan nilai atau data yang dapat digunakan dalam program. Di Python, Anda tidak perlu mendeklarasikan tipe variabel secara eksplisit, karena Python otomatis menentukan tipe berdasarkan nilai yang diberikan.
+
+Contoh Deklarasi Variabel:
+
+nama = "John"
+umur = 25
+berat_badan = 70.5
+
+2. Tipe Data
+Tipe data adalah kategori dari nilai yang dapat disimpan dalam variabel. Python mendukung berbagai macam tipe data, termasuk tipe data primitif dan koleksi.
+
+A. Tipe Data Angka (Numeric)
+1. Integer (int): Bilangan bulat positif atau negatif, tanpa desimal.
+
+a = 10
+b = -20
+
+2. Float (float): Bilangan desimal atau pecahan.
+
+pi = 3.14
+tinggi = 1.75
+
+3. Complex (complex): Bilangan kompleks, terdiri dari bagian nyata dan bagian imajiner.
+
+z = 3 + 2j
+
+B. Tipe Data String (str)
+String adalah kumpulan karakter atau teks, yang diapit oleh tanda kutip tunggal (') atau ganda (").
+
+nama = "Alice"
+pesan = 'Selamat datang'
+
+C. Tipe Data Boolean (bool)
+Boolean hanya memiliki dua nilai: True atau False.
+
+is_active = True
+is_logged_in = False
+
+D. Tipe Data Koleksi
+1. List (list)
+List adalah koleksi berurutan yang dapat diubah (mutable). List dideklarasikan dengan tanda kurung siku ([]).
+
+angka = [1, 2, 3, 4]
+buah = ["apel", "mangga", "jeruk"]
+
+2. Tuple (tuple)
+Tuple adalah koleksi berurutan yang tidak dapat diubah (immutable). Tuple dideklarasikan dengan tanda kurung (()).
+
+koordinat = (10, 20)
+warna_rgb = (255, 0, 0)
+
+3. Set (set)
+Set adalah koleksi tidak berurutan yang tidak memiliki elemen duplikat. Set dideklarasikan dengan tanda kurung kurawal ({}).
+
+angka_unik = {1, 2, 3, 4, 4}  # Output: {1, 2, 3, 4}
+
+4. Dictionary (dict)
+Dictionary adalah koleksi pasangan key-value yang tidak berurutan. Dictionary dideklarasikan dengan tanda kurung kurawal ({}), dan setiap elemen terdiri dari key dan value.
+
+mahasiswa = {
+    "nama": "Budi",
+    "umur": 21,
+    "jurusan": "Informatika"
+}
+
+3. Memeriksa Tipe Data
+Untuk memeriksa tipe data dari suatu variabel, gunakan fungsi type():
+
+x = 5
+print(type(x))  # Output: <class 'int'>
+
+4. Dynamic Typing
+Python menggunakan dynamic typing, artinya tipe data dari sebuah variabel dapat berubah seiring berjalannya program.
+
+x = 10       # Tipe data integer
+x = "Halo"   # Sekarang tipe data string
+
+5. Type Casting (Konversi Tipe Data)
+Anda bisa mengonversi tipe data satu ke tipe data lain menggunakan fungsi bawaan seperti int(), float(), str(), dll.
+
+Contoh Type Casting:
+
+angka_str = "123"
+angka_int = int(angka_str)  # Mengonversi string ke integer
+
+
+
+Demikian penjelasan singkat mengenai variabel dan tipe data.!🤗
+
+Sekian dari saya🙌
+semoga bermanfaat🤝
