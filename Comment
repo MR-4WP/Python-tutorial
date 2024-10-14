@@ -1,0 +1,6 @@
+KOMENTAR
+Komentar digunakan untuk memberi penjelasan pada kode. 
+Python menggunakan tanda pagar # untuk menulis komentar.
+
+# Ini adalah komentar
+print("Ini bukan komentar")
